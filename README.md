@@ -1,4 +1,4 @@
-# Simbolic Computation
+# Symbolic Computation
 
 This repository contains exercises for the book "Common Lisp - A Gentle Introduction to Symbolic Computation" as well as other useful resources.
 
