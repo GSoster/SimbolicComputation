@@ -17,4 +17,5 @@ This repository contains exercises for the book "Common Lisp - A Gentle Introduc
 [Fukamachi](https://github.com/fukamachi)  
 [Shirakumo](https://shirakumo.org/#projects)  
 [Steve Losh](https://stevelosh.com/blog/2016/08/lisp-jam-postmortem/)  
-[defungames](https://defungames.com/2018/12/creating-a-non-trivial-lisp-game-in-2018/)
+[defungames](https://defungames.com/2018/12/creating-a-non-trivial-lisp-game-in-2018/)  
+[Kaveh Kardan](https://github.com/kaveh808)
