@@ -29,7 +29,9 @@ Special function: QUOTE.
 
 ## On Common Lisp
 
-[Wonderful road-map for learning common lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/#s9-a-road-to-learning-common-lisp)
+[Wonderful road-map for learning common lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/#s9-a-road-to-learning-common-lisp).  
+
+[Common Lisp tutorial Series by rabbibotton (creator of CLog)](https://github.com/rabbibotton/clog/blob/main/LEARN.md)
 
 #### Community
 
@@ -38,3 +40,4 @@ Special function: QUOTE.
 [Steve Losh](https://stevelosh.com/blog/2016/08/lisp-jam-postmortem/)  
 [defungames](https://defungames.com/2018/12/creating-a-non-trivial-lisp-game-in-2018/)  
 [Kaveh Kardan](https://github.com/kaveh808)
+[David Botton (rabbibotton)](https://github.com/rabbibotton)
