@@ -17,6 +17,10 @@ Predicates: LISTP, CONSP, ATOM, NULL.
 
 ## Chapter 3
 
+The Evaluator: EVAL.  
+Macro function for defining new functions: DEFUN.  
+Special function: QUOTE.  
+
 ## On Symbolic Computation
 
 [What is symbolic computation and the REPL](https://stevelosh.com/blog/2016/06/symbolic-computation/)  
