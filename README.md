@@ -2,6 +2,21 @@
 
 This repository contains exercises for the book "Common Lisp - A Gentle Introduction to Symbolic Computation" as well as other useful resources.
 
+## Chapters and functions covered in them
+
+### Chapter 1
+
+Arithmetic functions: +, -, *, /, ABS, SQRT.  
+Predicates: NUMBERP, SYMBOLP, ZEROP, ODDP, EVENP, <, >, EQUAL, NOT
+
+### Chapter 2
+
+List Functions: FIRST, SECOND, THIRD, FOURTH, REST, CAR, CDR, CONS, LIST, LENGTH.  
+Compositions of CAR and CDR: CADR, CADDR, and so on.  
+Predicates: LISTP, CONSP, ATOM, NULL.  
+
+## Chapter 3
+
 ## On Symbolic Computation
 
 [What is symbolic computation and the REPL](https://stevelosh.com/blog/2016/06/symbolic-computation/)  
