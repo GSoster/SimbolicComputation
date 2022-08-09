@@ -45,5 +45,5 @@ Study Order:
 [Shirakumo](https://shirakumo.org/#projects)  
 [Steve Losh](https://stevelosh.com/blog/2016/08/lisp-jam-postmortem/)  
 [defungames](https://defungames.com/2018/12/creating-a-non-trivial-lisp-game-in-2018/)  
-[Kaveh Kardan](https://github.com/kaveh808)
+[Kaveh Kardan](https://github.com/kaveh808).  
 [David Botton (rabbibotton)](https://github.com/rabbibotton)
