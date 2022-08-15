@@ -39,7 +39,15 @@ Study Order:
 - [ ] [On Lisp - free online](http://www.paulgraham.com/onlisp.html)
 - [ ] [Let Over Lambda](https://letoverlambda.com/)
 
-#### Community
+### Environment Setup
+
+[Installing Common Lisp + Emacs + Slime on MacOS (all platforms)](https://github.com/rabbibotton/clog/blob/main/MACOS.md).  
+
+#### Emacs keybinds
+
+- C-c k 
+
+### Community
 
 [Fukamachi](https://github.com/fukamachi)  
 [Shirakumo](https://shirakumo.org/#projects)  
