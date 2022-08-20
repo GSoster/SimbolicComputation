@@ -39,6 +39,11 @@ Study Order:
 - [ ] [On Lisp - free online](http://www.paulgraham.com/onlisp.html)
 - [ ] [Let Over Lambda](https://letoverlambda.com/)
 
+Other Resources:
+- [Common Lisp track on Exercism](https://exercism.org/tracks/common-lisp)  
+- [Common Lisp Wiki](https://cliki.net/Lisp+Books)
+- [Professional Automated Trading: Theory and Practice (Examples in Common-lisp)](https://www.wiley.com/en-us/Professional+Automated+Trading%3A+Theory+and+Practice-p-9781118129852)
+
 ### Environment Setup
 
 [Installing Common Lisp + Emacs + Slime on MacOS (all platforms)](https://github.com/rabbibotton/clog/blob/main/MACOS.md).  
