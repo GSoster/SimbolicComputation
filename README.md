@@ -1,6 +1,6 @@
 # Symbolic Computation
 
-This repository contains exercises for the book "Common Lisp - A Gentle Introduction to Symbolic Computation" as well as other useful resources.
+This repository contains exercises for the book "[Common Lisp - A Gentle Introduction to Symbolic Computation](https://www.amazon.com.br/Common-LISP-Introduction-Symbolic-Computation/dp/0486498204)" as well as other useful resources.
 
 ## Chapters and functions covered in them
 
