@@ -30,8 +30,8 @@ Special function: QUOTE.
 ## On Common Lisp
 
 [Wonderful road-map for learning common lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/#s9-a-road-to-learning-common-lisp).  
-[Common Lisp tutorial Series by rabbibotton (creator of CLog)](https://github.com/rabbibotton/clog/blob/main/LEARN.md)
-[Common Lisp Object System](https://dreamsongs.com/CLOS.html)
+[Common Lisp tutorial Series by rabbibotton (creator of CLog)](https://github.com/rabbibotton/clog/blob/main/LEARN.md).  
+[Common Lisp Object System](https://dreamsongs.com/CLOS.html).  
 
 Study Order:
 - [ ] Common Lisp: A Gentle Introduction to Symbolic Computation
