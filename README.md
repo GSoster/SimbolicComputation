@@ -34,7 +34,7 @@ Special function: QUOTE.
 [Common Lisp Object System](https://dreamsongs.com/CLOS.html).  
 
 Study Order:
-- [ ] Common Lisp: A Gentle Introduction to Symbolic Computation
+- [ ] [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.amazon.com.br/Common-LISP-Introduction-Symbolic-Computation/dp/0486498204)
 - [ ] [Pratical Lisp - free online](https://gigamonkeys.com/book/)
 - [ ] [On Lisp - free online](http://www.paulgraham.com/onlisp.html)
 - [ ] [Let Over Lambda](https://letoverlambda.com/)
@@ -43,6 +43,7 @@ Other Resources:
 - [Common Lisp track on Exercism](https://exercism.org/tracks/common-lisp)  
 - [Common Lisp Wiki](https://cliki.net/Lisp+Books)
 - [Professional Automated Trading: Theory and Practice (Examples in Common-lisp)](https://www.wiley.com/en-us/Professional+Automated+Trading%3A+Theory+and+Practice-p-9781118129852)
+- [Articulate Lisp](http://articulate-lisp.com/)
 
 ### Environment Setup
 
@@ -62,4 +63,5 @@ Other Resources:
 [David Botton (rabbibotton)](https://github.com/rabbibotton).  
 [Hayley Patton](https://github.com/no-defun-allowed).  
 [vindarel](https://github.com/vindarel)  
+[Vsevolod Dyomkin](http://vseloved.github.io/)
 
