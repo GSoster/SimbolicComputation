@@ -64,4 +64,9 @@ Other Resources:
 [Hayley Patton](https://github.com/no-defun-allowed).  
 [vindarel](https://github.com/vindarel)  
 [Vsevolod Dyomkin](http://vseloved.github.io/)
+[ruricolist](https://github.com/ruricolist)
 
+### Relevant community Projects
+
+- [alexandria](https://gitlab.common-lisp.net/alexandria/alexandria)
+- [serapeum](https://github.com/ruricolist/serapeum) 
