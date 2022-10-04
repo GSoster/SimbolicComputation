@@ -44,10 +44,12 @@ Other Resources:
 - [Common Lisp Wiki](https://cliki.net/Lisp+Books)
 - [Professional Automated Trading: Theory and Practice (Examples in Common-lisp)](https://www.wiley.com/en-us/Professional+Automated+Trading%3A+Theory+and+Practice-p-9781118129852)
 - [Articulate Lisp](http://articulate-lisp.com/)
+- [COMMON-LISP "The Tutorial" Series by CLOG creator] (https://github.com/rabbibotton/clog/blob/main/LEARN.md)
 
 ### Environment Setup
 
 [Installing Common Lisp + Emacs + Slime on MacOS (all platforms)](https://github.com/rabbibotton/clog/blob/main/MACOS.md).  
+[](https://github.com/rabbibotton/clog/blob/main/VSCODE.md).  
 
 #### Emacs keybinds
 
@@ -70,3 +72,8 @@ Other Resources:
 
 - [alexandria](https://gitlab.common-lisp.net/alexandria/alexandria)
 - [serapeum](https://github.com/ruricolist/serapeum) 
+
+### General pages/blogs/etc
+
+- [What if… Programming Language Ideas](https://www.joram.io/blog/what-if-programming-language-ideas/)
+- [DreamSongs](https://dreamsongs.com/index.html)
