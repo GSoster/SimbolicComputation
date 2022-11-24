@@ -45,6 +45,9 @@ Other Resources:
 - [Professional Automated Trading: Theory and Practice (Examples in Common-lisp)](https://www.wiley.com/en-us/Professional+Automated+Trading%3A+Theory+and+Practice-p-9781118129852)
 - [Articulate Lisp](http://articulate-lisp.com/)
 - [COMMON-LISP "The Tutorial" Series by CLOG creator] (https://github.com/rabbibotton/clog/blob/main/LEARN.md)
+- [MIT 6.001 Structures and Interpretations of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLE18841CABEA24090)
+- - https://github.com/ryukinix/lisp-insights
+- [https://learnxinyminutes.com/docs/common-lisp/](https://learnxinyminutes.com/docs/common-lisp/)
 
 ### Environment Setup
 
@@ -77,3 +80,8 @@ Other Resources:
 
 - [What if… Programming Language Ideas](https://www.joram.io/blog/what-if-programming-language-ideas/)
 - [DreamSongs](https://dreamsongs.com/index.html)
+- [https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2018/](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2018/)
+
+### Exercices sites
+
+- hackerrank
