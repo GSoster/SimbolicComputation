@@ -40,6 +40,7 @@ Study Order:
 - [ ] [Let Over Lambda](https://letoverlambda.com/)
 
 Other Resources:
+- [Lisp in small parts](http://lisp.plasticki.com/)
 - [Common Lisp track on Exercism](https://exercism.org/tracks/common-lisp)  
 - [Common Lisp Wiki](https://cliki.net/Lisp+Books)
 - [Professional Automated Trading: Theory and Practice (Examples in Common-lisp)](https://www.wiley.com/en-us/Professional+Automated+Trading%3A+Theory+and+Practice-p-9781118129852)
@@ -85,3 +86,9 @@ Other Resources:
 ### Exercices sites
 
 - hackerrank
+
+## Racket
+
+- [ ] [Beautiful racket](https://beautifulracket.com/)
+- [Game engine for racket, targeting kids](https://r-cade.io/) 
+ 
