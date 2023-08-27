@@ -13,3 +13,7 @@
     (EQUAL sym (first list)))
 
 ;;; 3.22.e
+
+
+(defun my-cond (x)
+  ( COND (symp x) 'symbol))
