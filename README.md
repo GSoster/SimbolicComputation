@@ -4,6 +4,10 @@ This repository contains exercises for the book "[Common Lisp - A Gentle Introdu
 
 ## Chapters and functions covered in them
 
+### How to run the examples
+
+Just execute the command `sbcl` to open sbcl and then load the file you want `(load "book-exercises/chapter1.lisp")`. This will make all functions in that file available for you in your console.
+
 ### Chapter 1
 
 Arithmetic functions: +, -, *, /, ABS, SQRT.  
