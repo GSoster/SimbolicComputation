@@ -94,5 +94,8 @@ Other Resources:
 ## Racket
 
 - [ ] [Beautiful racket](https://beautifulracket.com/)
-- [Game engine for racket, targeting kids](https://r-cade.io/) 
+- [Game engine for racket, targeting kids](https://r-cade.io/)
+ 
+## Scheme
+- [Scheme Books](https://erkin.party/scheme/bibliography/)
  
